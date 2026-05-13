@@ -1,5 +1,7 @@
 # AP Duplicate Payment Preflight
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 Catch duplicate vendor payments before money leaves the bank.
 
 Part of the [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) collection.
