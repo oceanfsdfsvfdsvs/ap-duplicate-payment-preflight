@@ -4,7 +4,7 @@
 
 在钱离开银行账户之前，先发现重复供应商付款。
 
-本项目是 [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) 集合的一部分。
+本项目是 [实用 Agent Skills](https://github.com/oceanfsdfsvfdsvs/practical-agent-skills) 集合的一部分。
 
 `ap-duplicate-payment-preflight` 是一个本地优先的 agent skill，面向财务、应付账款、运营和创始人团队。它用于在 ACH、wire、银行卡或支票付款前检查付款批次。
 
