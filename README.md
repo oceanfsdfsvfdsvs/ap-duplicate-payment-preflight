@@ -2,6 +2,8 @@
 
 Catch duplicate vendor payments before money leaves the bank.
 
+Part of the [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) collection.
+
 `ap-duplicate-payment-preflight` is a local-first agent skill for finance, AP, operations, and founder-led teams that review payment runs before ACH, wire, card, or check release.
 
 It helps an agent inspect exported invoices or bills, find exact and near duplicates, and produce an AP-reviewable exception report without connecting to your ERP or handling credentials.
